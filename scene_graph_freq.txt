@@ -1,0 +1,2 @@
+total_frames:  165
+frame_rate_hz: 27.389
